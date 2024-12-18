@@ -1,0 +1,15 @@
+#include <stdio.h>
+// Codigo del alumnoo:Kevin Carlos Muñoz
+// Link del git personal: https://github.com/Kevincabj7
+// Link del Git grupal (Lider : Miguel Angel Chura Crespo): https://github.com/Kevincabj7
+
+// Funcion para convertit centimetros a pulgadas
+#include <stdio.h>
+int cm_a_pulgadas(int centimetros){
+    return centimetros /2.54;
+}
+//funcion para convertir pulgadas a centimetros
+int pulgadas_a_cm(int pulgadass){
+    return pulgadas *2.54;
+    return 0;
+}
